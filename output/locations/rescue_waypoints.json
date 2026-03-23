@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-02-26T10:07:51.135291",
+  "total_waypoints": 2,
+  "pending_rescues": 2,
+  "waypoints": [
+    {
+      "id": 1,
+      "detection_id": 1,
+      "type": "human",
+      "latitude": 12.970566041984132,
+      "longitude": 77.59466484643754,
+      "altitude": 51.568183896157095,
+      "priority": 1,
+      "timestamp": "2026-02-26T10:07:47.389583",
+      "status": "PENDING"
+    },
+    {
+      "id": 2,
+      "detection_id": 2,
+      "type": "human",
+      "latitude": 12.970698737610357,
+      "longitude": 77.5950772728011,
+      "altitude": 51.51122357034668,
+      "priority": 1,
+      "timestamp": "2026-02-26T10:07:51.132044",
+      "status": "PENDING"
+    }
+  ]
+}

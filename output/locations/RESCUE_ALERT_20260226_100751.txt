@@ -1,0 +1,9 @@
+RESCUE ALERT - HUMAN DETECTED
+Time: 2026-02-26T10:07:51.132044
+Detection ID: 2
+Location: 12.970699, 77.595077
+Altitude: 51.5m
+Accuracy: ±3.4m
+Confidence: 0.585
+
+Google Maps: https://maps.google.com/?q=12.970698737610357,77.5950772728011

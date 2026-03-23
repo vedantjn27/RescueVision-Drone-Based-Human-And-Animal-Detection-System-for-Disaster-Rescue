@@ -1,0 +1,7 @@
+names:
+- human
+- animal
+nc: 2
+path: disaster_drone_models\datasets
+train: images/train
+val: images/val

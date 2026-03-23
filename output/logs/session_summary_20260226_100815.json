@@ -1,0 +1,18 @@
+{
+  "session_end": "2026-02-26T10:08:15.058018",
+  "model_type": "custom",
+  "total_frames": 188,
+  "unique_objects_detected": 2,
+  "new_high_priority_alerts": 2,
+  "unique_persons": 2,
+  "unique_animals": 0,
+  "tracking_parameters": {
+    "tracking_threshold": 100,
+    "max_missed_frames": 30,
+    "confidence_threshold": 0.5
+  },
+  "priority_classes_used": [
+    0,
+    1
+  ]
+}

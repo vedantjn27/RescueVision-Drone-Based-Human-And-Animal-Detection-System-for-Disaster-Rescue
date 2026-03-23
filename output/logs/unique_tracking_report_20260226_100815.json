@@ -1,0 +1,35 @@
+{
+  "timestamp": "2026-02-26T10:08:15.874746",
+  "model_type": "custom",
+  "total_unique_objects": 2,
+  "priority_counts": {
+    "1": 2,
+    "2": 0,
+    "3": 0
+  },
+  "class_counts": {
+    "human": 2
+  },
+  "unique_objects": [
+    {
+      "id": 1,
+      "class_name": "human",
+      "priority": 1,
+      "first_seen": "2026-02-26T10:07:47.389583",
+      "last_seen": "2026-02-26T10:08:14.675137",
+      "tracking_duration_frames": 187,
+      "max_confidence": 0.8415541648864746,
+      "total_frame_detections": 188
+    },
+    {
+      "id": 2,
+      "class_name": "human",
+      "priority": 1,
+      "first_seen": "2026-02-26T10:07:51.131154",
+      "last_seen": "2026-02-26T10:08:14.443731",
+      "tracking_duration_frames": 166,
+      "max_confidence": 0.5852875113487244,
+      "total_frame_detections": 58
+    }
+  ]
+}

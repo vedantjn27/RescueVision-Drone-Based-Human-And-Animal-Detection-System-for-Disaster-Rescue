@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>Rescue Locations</name>
+    <description>Detected humans and animals requiring rescue</description>
+    
+    <Style id="humanIcon">
+        <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.2</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/man.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    
+    <Style id="animalIcon">
+        <IconStyle>
+            <color>ff00ffff</color>
+            <scale>1.0</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    
+    <Placemark>
+        <name>Human #1</name>
+        <description>
+            Detection ID: 1
+            Type: human
+            Priority: 1
+            Status: PENDING
+            Time: 2026-02-26T09:53:20.276907
+            Altitude: 48.0m
+        </description>
+        <styleUrl>#humanIcon</styleUrl>
+        <Point>
+            <coordinates>77.595593,12.971411,48.0</coordinates>
+        </Point>
+    </Placemark>
+    
+</Document>
+</kml>

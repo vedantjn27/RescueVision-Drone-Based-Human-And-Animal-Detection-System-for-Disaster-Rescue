@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-26T10:08:15.891856",
+  "total_detections": 2,
+  "total_waypoints": 2,
+  "current_gps": {
+    "timestamp": "2026-02-26 10:08:14.831743",
+    "latitude": 12.972599658371697,
+    "longitude": 77.59486035913456,
+    "altitude": 51.60944128762999,
+    "accuracy": 3.7143850305118065,
+    "heading": 268.31743240356445,
+    "speed": 5.5073322454084614,
+    "satellites": 12
+  },
+  "detection_summary": {
+    "1": {
+      "type": "human",
+      "priority": 1,
+      "first_detected": "2026-02-26T10:07:47.389583",
+      "last_detected": "2026-02-26T10:07:47.389583",
+      "total_location_updates": 1,
+      "latest_location": {
+        "latitude": 12.970566041984132,
+        "longitude": 77.59466484643754,
+        "altitude": 51.568183896157095,
+        "accuracy": 3.02944615979064,
+        "heading": 347.8228073120117,
+        "speed": 4.412852128747287
+      }
+    },
+    "2": {
+      "type": "human",
+      "priority": 1,
+      "first_detected": "2026-02-26T10:07:51.132044",
+      "last_detected": "2026-02-26T10:07:51.132044",
+      "total_location_updates": 1,
+      "latest_location": {
+        "latitude": 12.970698737610357,
+        "longitude": 77.5950772728011,
+        "altitude": 51.51122357034668,
+        "accuracy": 3.375022320481327,
+        "heading": 27.850223541259766,
+        "speed": 4.0597096467406075
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "detection_id": 2,
+  "detection_type": "human",
+  "confidence": 0.5852875113487244,
+  "priority": 1,
+  "is_new_detection": true,
+  "frame_number": 21,
+  "timestamp": "2026-02-26T10:07:51.132044",
+  "gps_location": {
+    "latitude": 12.970698737610357,
+    "longitude": 77.5950772728011,
+    "altitude": 51.51122357034668,
+    "accuracy": 3.375022320481327,
+    "heading": 27.850223541259766,
+    "speed": 4.0597096467406075
+  },
+  "image_coordinates": {
+    "bbox": [
+      469.5067138671875,
+      175.6345977783203,
+      639.687255859375,
+      480.0
+    ],
+    "center": [
+      554.5969848632812,
+      327.81729888916016
+    ]
+  }
+}

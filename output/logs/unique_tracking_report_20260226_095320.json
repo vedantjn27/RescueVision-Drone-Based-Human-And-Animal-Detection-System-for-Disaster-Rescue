@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-26T09:53:20.767355",
+  "model_type": "custom",
+  "total_unique_objects": 1,
+  "priority_counts": {
+    "1": 1,
+    "2": 0,
+    "3": 0
+  },
+  "class_counts": {
+    "human": 1
+  },
+  "unique_objects": [
+    {
+      "id": 1,
+      "class_name": "human",
+      "priority": 1,
+      "first_seen": "2026-02-26T09:53:20.275906",
+      "last_seen": "2026-02-26T09:53:20.275906",
+      "tracking_duration_frames": 0,
+      "max_confidence": 0.6832901239395142,
+      "total_frame_detections": 1
+    }
+  ]
+}
